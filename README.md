@@ -9,8 +9,6 @@ Raspberry Pi with a FreeRTOS kernel image.  You won’t need a console
 or keyboard attached to the Pi.  U-Boot boot loader for Pi has all the
 bells and whistles to do this.
 
-along with a custom script.  Stick SD card in Pi and leave it.
-
 Steps
 -----
 Assumes starting with a SD card with Raspbian already on it
